@@ -3,7 +3,7 @@ package modelo;
 
 /**
  *
- * @author Andres Angarita <andres.angarita96@gmail.com>
+ * 
  */
 public class Vaca extends Animal{
     

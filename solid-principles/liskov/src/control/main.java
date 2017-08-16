@@ -7,7 +7,7 @@ import modelo.Persona;
 
 /**
  *
- * @author Andres Angarita <andres.angarita96@gmail.com>
+ * 
  */
 public class main {
 
